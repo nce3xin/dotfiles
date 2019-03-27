@@ -10,8 +10,9 @@ These are my dotfiles! They are distro-independent.
     - [Terminal](#terminal)
     - [Shell](#shell)
     - [Others](#others)
+  - [Installation](#installation)
   - [Key Bindings](#key-bindings)
-  - [The best way to store your dotfiles](#the-best-way-to-store-your-dotfiles)
+  - [More documentation](#more-documentation)
 
 ## Screenshot
 ![](Screenshots/sc.png)
@@ -40,9 +41,12 @@ These are my dotfiles! They are distro-independent.
 - [compton](https://github.com/chjj/compton). Compton is a compositor for X, supporting terminal transparency.
 - [scrot](https://github.com/dreamer/scrot). Scrot (SCReen shOT) is a simple commandline screen capture utility.
 
-## Key Bindings
-Please see [wiki: A Friendly Guide to My Dotfiles](https://github.com/nce3xin/dotfiles/wiki/A-Friendly-Guide-to-My-Dotfiles).
+## Installation
+Please see [Wiki: Installation](https://github.com/nce3xin/dotfiles/wiki/Installation-the-dotfiles-onto-a-new-system).
 
-## The best way to store your dotfiles
-[This article ](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/) gives a detailed explanation. This repo uses this method. 
+## Key Bindings
+Please see [Wiki: Key Bindings](https://github.com/nce3xin/dotfiles/wiki/Key-Bindings).
+
+## More documentation
+There is a more detailed documentation of this repository in our [Wiki](https://github.com/nce3xin/dotfiles/wiki), including how to track your dotfiles from scratch, etc.
 
