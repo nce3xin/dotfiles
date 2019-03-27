@@ -1,5 +1,5 @@
-# Nce3xin's dotfiles
-This repo is my dotfiles using i3wm in linux.
+# Nce3xin's GNU/Linux dotfiles
+These are my dotfiles! They are distro-independent.
 
 ## Table of Contents
 - [Screenshot](#Screenshot)
@@ -32,6 +32,7 @@ This repo is my dotfiles using i3wm in linux.
 - [visual studio code](https://code.visualstudio.com/). A well-known IDE-like editor for developers.
 - [google chrome](https://www.google.com/chrome/). Needless to say, the best browser.
 - [compton](https://github.com/chjj/compton). Compton is a compositor for X, supporting terminal transparency.
+- [scrot](https://github.com/dreamer/scrot). Scrot (SCReen shOT) is a simple commandline screen capture utility.
 
 ## Key Bindings
 ### Which key is mod key ?
@@ -72,5 +73,5 @@ This repo is my dotfiles using i3wm in linux.
 - mod + d, then a rofi window will pop up.
 
 ## The best way to store your dotfiles
-[The best way to store your dotfiles: A bare Git repository](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/). This repo uses this method.
+[The best way to store your dotfiles: A bare Git repository](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/). This repo uses this method. [This article ](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/) gives a more detailed explanation.
 
