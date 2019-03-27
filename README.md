@@ -1,4 +1,8 @@
 # Nce3xin's GNU/Linux dotfiles
+![](https://img.shields.io/github/repo-size/nce3xin/dotfiles.svg)
+![](https://img.shields.io/github/last-commit/nce3xin/dotfiles.svg?color=red)
+![](https://img.shields.io/github/license/nce3xin/dotfiles.svg)
+
 These are my dotfiles! They are distro-independent.
 
 ## Table of Contents
