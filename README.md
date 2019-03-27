@@ -2,10 +2,16 @@
 These are my dotfiles! They are distro-independent.
 
 ## Table of Contents
-- [Screenshot](#Screenshot)
-- [Components](#Components)
-- [Key Bindings](#Key-Bindings)
-- [The best way to store your dotfiles](#The-best-way-to-store-your-dotfiles)
+- [Nce3xin's GNU/Linux dotfiles](#nce3xins-gnulinux-dotfiles)
+  - [Table of Contents](#table-of-contents)
+  - [Screenshot](#screenshot)
+  - [Components](#components)
+    - [i3-gaps](#i3-gaps)
+    - [Terminal](#terminal)
+    - [Shell](#shell)
+    - [Others](#others)
+  - [Key Bindings](#key-bindings)
+  - [The best way to store your dotfiles](#the-best-way-to-store-your-dotfiles)
 
 ## Screenshot
 ![](Screenshots/sc.png)
@@ -35,43 +41,8 @@ These are my dotfiles! They are distro-independent.
 - [scrot](https://github.com/dreamer/scrot). Scrot (SCReen shOT) is a simple commandline screen capture utility.
 
 ## Key Bindings
-### Which key is mod key ?
-- The windows key
-### Open new terminal
-- mod + enter
-### Close window
-- mod + shift + q
-### change focus
-- mod + up / down / left / right
-### move focused  window
-- move left: mod + shift + left
-- move right: mod + shift + right
-- move up: mod + shift + up
-- move down: mod + shift + down
-### split window
-- split in horizontal orientation: mod + h
-- split in vertical orientation: mod + v
-### fullscreen mode for the focused container
-- mod + f
-### toggle tiling / floating
-- mod + shift + space
-### change focus between tiling / floating windows
-- mod + space
-### switch the workspace
-- mod + num
-### move focused container to workspace
-- mod + shift + num
-### reload the configuration file
-- mod + shift + c
-### restart i3 in place
-- mod + shift + r
-### exit i3
-- mod + shift + e
-### resize window
-- mod + r, then up / down / left / right. Esc to exit resize mode.
-### launch applications
-- mod + d, then a rofi window will pop up.
+Please see [wiki: A Friendly Guide to My Dotfiles](https://github.com/nce3xin/dotfiles/wiki/A-Friendly-Guide-to-My-Dotfiles).
 
 ## The best way to store your dotfiles
-[The best way to store your dotfiles: A bare Git repository](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/). This repo uses this method. [This article ](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/) gives a more detailed explanation.
+[This article ](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/) gives a detailed explanation. This repo uses this method. 
 
