@@ -54,7 +54,7 @@ These are my dotfiles! They are distro-independent.
 - [scrot](https://github.com/dreamer/scrot). Scrot (SCReen shOT) is a simple commandline screen capture utility.
 
 ## Installation
-Please see [Wiki: Installation](https://github.com/nce3xin/dotfiles/wiki/Installation-the-dotfiles-onto-a-new-system).
+Please see [Wiki: Installation](https://github.com/nce3xin/dotfiles/wiki/Install-the-dotfiles-onto-a-new-system).
 
 ## Key Bindings
 Please see [Wiki: Key Bindings](https://github.com/nce3xin/dotfiles/wiki/Key-Bindings).
