@@ -1,8 +1,8 @@
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH="/home/nce3xin/.oh-my-zsh"
+export ZSH="/home/nce3xin/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -71,7 +71,7 @@ source $ZSH/oh-my-zsh.sh
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
-# export LANG=en_US.UTF-8
+export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
@@ -92,9 +92,9 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
- alias zshconfig="vim ~/.zshrc"
+alias zshconfig="vim ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
- alias ll="ls -al"
- alias i3config="vim ~/.config/i3/config"
- alias comptonconfig="vim ~/.config/i3/compton.conf"
+alias ll="ls -al"
+alias i3config="vim ~/.config/i3/config"
+alias comptonconfig="vim ~/.config/i3/compton.conf"
 alias config='/usr/bin/git --git-dir=/home/nce3xin/dotfiles/ --work-tree=/home/nce3xin'
