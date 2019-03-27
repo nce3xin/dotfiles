@@ -5,6 +5,9 @@ These are my dotfiles! They are distro-independent.
 - [Nce3xin's GNU/Linux dotfiles](#nce3xins-gnulinux-dotfiles)
   - [Table of Contents](#table-of-contents)
   - [Screenshot](#screenshot)
+    - [Blank](#blank)
+    - [Workspace](#workspace)
+    - [The lock screen](#the-lock-screen)
   - [Components](#components)
     - [i3-gaps](#i3-gaps)
     - [Terminal](#terminal)
@@ -15,7 +18,12 @@ These are my dotfiles! They are distro-independent.
   - [More documentation](#more-documentation)
 
 ## Screenshot
+### Blank
+![](Screenshots/blank.png)
+### Workspace
 ![](Screenshots/sc.png)
+### The lock screen
+![](Screenshots/locked.png)
 
 ## Components
 
