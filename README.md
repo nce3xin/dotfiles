@@ -19,7 +19,7 @@ These are my dotfiles! They are distro-independent.
     - [Others](#others)
   - [Installation](#installation)
   - [Key Bindings](#key-bindings)
-  - [More documentation](#more-documentation)
+  - [More Documentation](#more-documentation)
 
 ## Screenshot
 ### Blank
@@ -59,6 +59,6 @@ Please see [Wiki: Installation](https://github.com/nce3xin/dotfiles/wiki/Install
 ## Key Bindings
 Please see [Wiki: Key Bindings](https://github.com/nce3xin/dotfiles/wiki/Key-Bindings).
 
-## More documentation
+## More Documentation
 There is a more detailed documentation of this repository in our [Wiki](https://github.com/nce3xin/dotfiles/wiki), including how to track your dotfiles from scratch, etc.
 
